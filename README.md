@@ -6,7 +6,6 @@ This repository is a work in progress as I go through the book [iOS Programming:
 
 The book contains a number of chapter challenge problems. You will find my answer to these problems in this repository.
 
-And the forum is at:
-[Book Forum](http://forums.bignerdranch.com/viewforum.php?f=73)
+Also check out the [book forum](http://forums.bignerdranch.com/viewforum.php?f=73).
 
 Happy learning!
