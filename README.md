@@ -1,4 +1,4 @@
-# Big Ranch Nerd iOS Programming
+# iOS Programming: The Big Nerd Ranch Guide
 
 My solutions to the book chapter challenges.
 
